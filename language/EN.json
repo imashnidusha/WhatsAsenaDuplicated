@@ -30,7 +30,7 @@
         "admin": {
             "BAN_DESC": "Ban someone in the group. Reply to message or tag a person to use command.",
             "IM_NOT_ADMIN": "*මම ඇඩ්මින් නෙමේනෙ එක්කො මූව රිමූ කරපන් නැත්තම් මට ඇඩ්මින් දියන් iMASH BOT!*",
-            "BANNED": "ආපහු එන්න එපා,ඔයා යන්න!",
+            "BANNED": "ආපහු එන්න එපා,ඔයා යන්න🙂!",
             "GIVE_ME_USER": "*Give me a user!*",
             "ADD_DESC": "Adds someone to the group.",
             "ADDED": "added to the group!",
