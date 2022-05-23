@@ -47,5 +47,5 @@ https://heroku.com/deploy?template=https://github.com/BlackPanther-svg/Black-Pan
 
 -[Whatsapp](https://wa.me/94741671668?text_Hi🤟)
 
-## Special Thanks @Dasun,@Dinuja,@Dilshan,@Anjana,@Srinath sir,
+## Special Thanks @Dasun,@Dinuja,@Dilshan,@Anjana,@Srinath sir,@vimukthi 
 
